@@ -8,7 +8,6 @@
 <sup>2</sup> CRIL, CNRS-Artois University, Lens, France  
 
 <sup>*</sup> Corresponding author: Thanh Ma  
-Email: mtthanh@ctu.edu.vn
 
 ## Published Article
 
